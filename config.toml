@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'HomeTech Video Games'
+theme = 'ananke'
+
+featured_image = '/static/example_image.jpg'
